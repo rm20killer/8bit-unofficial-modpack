@@ -1,0 +1,13 @@
+name = "Volume Fix"
+filename = "volumefix-1.0.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iywe4QI4/versions/6p8rnkJf/volumefix-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "82cac20a4fa69a7cdada36a6e6c7eef4fcab3ac3"
+
+[update]
+[update.modrinth]
+mod-id = "Iywe4QI4"
+version = "6p8rnkJf"
