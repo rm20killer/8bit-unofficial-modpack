@@ -21,6 +21,11 @@ hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
+metafile = true
+
+[[files]]
+file = "mods/brb.pw.toml"
+hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
 metafile = true
 
 [[files]]
@@ -51,8 +61,18 @@ hash = "8b32cf8689dd43590a9e95df8fc11ce5b04b15845d0c1e3ca9d296d7bc2b3670"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
@@ -88,11 +108,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c3b9347961a06e85aad24fa8f863f617da394df49a67b0b1a1a952ad7f0056f7"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
@@ -148,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "8a762171b89a5265ad651263b4691a098ce6429edd74b4ddb09c7c33286fcc75"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
