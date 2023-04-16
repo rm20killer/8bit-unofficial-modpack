@@ -1,6 +1,82 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "1a7dbab9710499edef8baa17a45e4718a31661829aa7eded598bb56126a69509"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "de09639f1ca7646f4213906d31f8b1184bb9f94732ebb2f2d34626a24dfa760d"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "850f1dac3e6a07c39c808a6b2ed5193c4e9bea8020f5eec7f71285537dd5b31c"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/8bit-main-menu.txt"
+hash = "a58d3dbf7f80bccec0a858c5b04129bc661278c876a1e7171ee9c9e1489e240a"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "7a425bf8c7c16fb2457204ac0123576be3f06db84f4ee12ea546373f4409483a"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
+file = "config/inspecio.json"
+hash = "1f17a6b682fb38a7175d493bd652b88d728fa990efb4574d2b01dd1c1f344cce"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "50011a9f43aa8b275f387be2ad68b0a6a4c610df048f751a284b8f5edb7ad3ab"
+
+[[files]]
+file = "fancymenu_data/last_world.fmdata"
+hash = "6bcd5e4fafd7ba9415749bf99e75d12e8149338495fecf24e5806e3519b40e1a"
+
+[[files]]
+file = "fancymenu_files/2022-11-22_14.54.02.png"
+hash = "95c638fe1bb2af622d5e0b19848971d62b6eaac61cf55301202050dc977ef5bd"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d0f2b3f8422d0585a8e960d1487c0ea83d6a61a4ba413a4ac657ab4aedf31d38"
 metafile = true
@@ -407,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "c5edf1f8114b808f9a63134f2973745b3e4172478b7f0aec5c9359f1325f37da"
+hash = "728e9c27aae0ac432c058a0220a51c2fe26761c8df0fe9382905d88fd98379a6"
 metafile = true
 
 [[files]]
