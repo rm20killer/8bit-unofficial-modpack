@@ -1,0 +1,13 @@
+name = "Sign Tools"
+filename = "signtools-fabric.1.19.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d92c06196a177f3dd664dff94a969e0a1bca97d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4391669
+project-id = 528005
