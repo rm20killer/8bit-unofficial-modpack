@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
+hash = "0ee6088526ba6ff9546632694024c04ccdff22014e938ca48072afb0b7c96262"
 metafile = true
 
 [[files]]
@@ -439,11 +439,6 @@ metafile = true
 [[files]]
 file = "mods/sign-tools.pw.toml"
 hash = "167634520f765d53cf79dfc939e189b395826f73e61283db4aceb9733f53cb42"
-metafile = true
-
-[[files]]
-file = "mods/simple-shulker-preview.pw.toml"
-hash = "e48b9bd2c6543cb91f83338cbe01647a3010b3a6a92c9065d65816bbbdee9a68"
 metafile = true
 
 [[files]]
