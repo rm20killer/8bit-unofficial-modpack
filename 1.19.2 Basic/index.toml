@@ -177,6 +177,11 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "5068bc7aad1bd5703e564c104ca0b627c2ae97de0e03bb779d548d8963e0efb1"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "729347957739e9f4778fe6204264fdddb32081bd835808cd640e5b98499898af"
 metafile = true
@@ -269,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "b35d0482bccb9e673448a2447333030920f6a7f1b82f3ab23855462f69fed413"
 metafile = true
 
 [[files]]
