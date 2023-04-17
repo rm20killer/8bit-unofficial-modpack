@@ -14,7 +14,7 @@ hash = "850f1dac3e6a07c39c808a6b2ed5193c4e9bea8020f5eec7f71285537dd5b31c"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
+hash = "550324d54fcd03f8607647f6e061c72ef6d377ee6270b57dc7fbd1fe33424aa9"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -22,7 +22,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/8bit-main-menu.txt"
-hash = "a58d3dbf7f80bccec0a858c5b04129bc661278c876a1e7171ee9c9e1489e240a"
+hash = "7635851c0d8be3ca62edda21a7a279ff9495ec0df27d7d14c43ab19c9d908c51"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -57,6 +57,34 @@ file = "config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
+file = "config/fancymenu/panoramas/Spawn/panorama/panorama_0.png"
+hash = "9f02555b82b964a5871d09d7c22e4f90d310e9c36ddca9a44c68e03b35a6d2c7"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn/panorama/panorama_1.png"
+hash = "8615b98088785b60925b1c480f143c3506a29eebea52c6ba4f060bbfb5641810"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn/panorama/panorama_2.png"
+hash = "27d3257b0e0b614a0739ee31b8daa6f5ba143ff961fb8ef3e72c75486055cbc6"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn/panorama/panorama_3.png"
+hash = "873526a65a995741e056287fcd54e97ab81e6818143ab91b54829fb2dc2abbdd"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn/panorama/panorama_4.png"
+hash = "6b62e24a2e9964c20bb6f1026abca2c0e86be7442980cf561559722afeb67e7d"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn/panorama/panorama_5.png"
+hash = "36ce45c647cd6a9a2ce67ce90a7563ed1e8c1f82e56c2d8939486d293e8a7853"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn/properties.txt"
+hash = "c1cba9f507f45ace170f8d7ad000e8fa290ed4e67600a02b17f570018e66dc72"
+
+[[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
@@ -69,12 +97,40 @@ file = "config/lambdynlights.toml"
 hash = "50011a9f43aa8b275f387be2ad68b0a6a4c610df048f751a284b8f5edb7ad3ab"
 
 [[files]]
+file = "config/packmger/client-config.toml"
+hash = "5fa736b8a1a051cf305da8c4e49a08010679368e5c42e0cd68a17df9cec2a43f"
+
+[[files]]
+file = "config/packmger/item_blacklist.json"
+hash = "3a42d346c00ddcf61ff8b82dfe2cd58419f7fdddc203eaec775dd5582468d937"
+
+[[files]]
 file = "fancymenu_data/last_world.fmdata"
 hash = "6bcd5e4fafd7ba9415749bf99e75d12e8149338495fecf24e5806e3519b40e1a"
 
 [[files]]
 file = "fancymenu_files/2022-11-22_14.54.02.png"
 hash = "95c638fe1bb2af622d5e0b19848971d62b6eaac61cf55301202050dc977ef5bd"
+
+[[files]]
+file = "figura/avatars/PointWorking/Action Wheel.lua"
+hash = "b233a08c24395c5381bf0921566827d102b6f73b851b0662d46cc39f3defa515"
+
+[[files]]
+file = "figura/avatars/PointWorking/MyAvatar.bbmodel"
+hash = "738887faf479b5019766892627f3d557eedafc5bf19b036595bb1ee5321a10b1"
+
+[[files]]
+file = "figura/avatars/PointWorking/Pointing.lua"
+hash = "aba1a274e4fe3b1d41c86c48e224e6fae59bba3e58dc3f4190471a7db6f6cdfe"
+
+[[files]]
+file = "figura/avatars/PointWorking/avatar.json"
+hash = "0a384b4373b8f83a983c4077babb049b1588aa727f94d10a255265661ee89348"
+
+[[files]]
+file = "figura/avatars/PointWorking/avatar.png"
+hash = "22c2e8c2358322d34941d1c6df6f6155c423ac3cb5183535a2daef5197674557"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -378,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "49333d5181eeeb8e4ff3f3571bc2249e3b56c793255629c75bb35490272e8234"
+hash = "c9ee8aeae3cb8b665654085f4b0371c1e6734cef6b8d726f5a69efdbbaef9c4b"
 metafile = true
 
 [[files]]
@@ -504,11 +560,6 @@ metafile = true
 [[files]]
 file = "mods/sign-tools.pw.toml"
 hash = "167634520f765d53cf79dfc939e189b395826f73e61283db4aceb9733f53cb42"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "7bc329ba362e6b9bce089cc236b3ae8d049cb9f874310e5cf1591fa764e2cb54"
 metafile = true
 
 [[files]]

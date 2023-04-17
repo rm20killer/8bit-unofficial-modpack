@@ -11,6 +11,7 @@ mode = "metadata:curseforge"
 optional = true
 description = "add schematics into the game"
 default = true
+
 [update]
 [update.curseforge]
 file-id = 4447928

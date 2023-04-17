@@ -9,8 +9,8 @@ customization-meta {
 }
 
 customization {
-  path = fancymenu_files/2022-11-22_14.54.02.png
-  action = texturizebackground
+  name = Spawn
+  action = setbackgroundpanorama
 }
 
 customization {
@@ -25,25 +25,25 @@ customization {
   width = 232
   action = deep_customization_element:title_screen_branding
   actionid = 20060189-e399-4be3-8cdf-86398b211d111681679637167
-  y = 664
+  y = 528
   height = 10
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 743
+  x = 583
   width = 13
   action = deep_customization_element:title_screen_realms_notification
   actionid = 31927335-1007-435c-8a9e-4947049877941681679637170
-  y = 269
+  y = 235
   height = 13
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 503
+  x = 343
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = d46a0892-ff1e-40e6-bc2a-857381edb51f1681679637170
