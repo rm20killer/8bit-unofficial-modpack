@@ -9,6 +9,8 @@ hash = "6a7e026b2da4d596f73e19312d34b014c35baedc"
 
 [option]
 optional = true
+description = "Help look for item in chest by saving the data on your pc"
+default = true
 
 [update]
 [update.modrinth]

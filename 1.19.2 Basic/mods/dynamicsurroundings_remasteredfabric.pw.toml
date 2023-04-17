@@ -9,7 +9,7 @@ hash = "b8a9f8e42a24da28ac8c8380b65b1632b54cd1e1"
 
 [option]
 optional = true
-
+description = "add Dynamic sounds"
 [update]
 [update.modrinth]
 mod-id = "4TSI7dRt"

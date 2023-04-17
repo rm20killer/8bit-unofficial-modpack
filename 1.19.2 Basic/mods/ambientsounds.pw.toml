@@ -9,6 +9,8 @@ hash = "5977b2703f12121f92f00c6c4458fcff5f558e0c"
 
 [option]
 optional = true
+description = "Adds more audio"
+default = false
 
 
 [update]

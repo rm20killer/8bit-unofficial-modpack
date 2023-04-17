@@ -1,0 +1,13 @@
+name = "Modpack Manager"
+filename = "packmger-fabric-1.19.2-v0.2.1-beta.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pnXXblTR/versions/pcphrerc/packmger-fabric-1.19.2-v0.2.1-beta.jar"
+hash-format = "sha1"
+hash = "9b48bb17cc375c124a36f2fa5fb55edf0975a335"
+
+[update]
+[update.modrinth]
+mod-id = "pnXXblTR"
+version = "pcphrerc"

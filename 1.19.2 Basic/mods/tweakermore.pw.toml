@@ -7,6 +7,9 @@ url = "https://cdn.modrinth.com/data/GBeCx05I/versions/J0bHw48R/tweakermore-mc1.
 hash-format = "sha1"
 hash = "723a642cd9e0859638824785096542f2f9bbecd9"
 
+[option]
+optional = true
+
 [update]
 [update.modrinth]
 mod-id = "GBeCx05I"

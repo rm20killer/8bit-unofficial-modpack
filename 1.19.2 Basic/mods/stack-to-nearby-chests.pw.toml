@@ -9,6 +9,8 @@ hash = "519d63b99f40b45dd81e7c4fd0ccfe79774fc01c"
 
 [option]
 optional = true
+description = "puts stuff in chest (Be carefull with this mod)"
+default = false
 
 [update]
 [update.modrinth]

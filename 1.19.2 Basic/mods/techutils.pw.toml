@@ -1,0 +1,13 @@
+name = "Technical Utilities"
+filename = "tmc-utils-0.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hNoAJSm7/versions/gkaF6A38/tmc-utils-0.1.2.jar"
+hash-format = "sha1"
+hash = "9e6ce9b9ff4393e777b7f8ab1095328f523ef13b"
+
+[update]
+[update.modrinth]
+mod-id = "hNoAJSm7"
+version = "gkaF6A38"

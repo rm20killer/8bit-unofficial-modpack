@@ -9,6 +9,8 @@ hash = "1b44c42c3b3b24b80b3384934cb27648c6e5fa48"
 
 [option]
 optional = true
+description = "Adds cosmetics into the game"
+default = true
 
 [update]
 [update.modrinth]

@@ -9,7 +9,7 @@ hash = "7472f0cbd986fb5620640469316d9fae924119f9"
 
 [option]
 optional = true
-
+description = "add fall Leaves paricles"
 [update]
 [update.modrinth]
 mod-id = "WhbRG4iK"

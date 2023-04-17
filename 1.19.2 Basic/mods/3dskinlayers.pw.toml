@@ -9,6 +9,8 @@ hash = "2d5587e0ad79685bd3fdd369d6b0d6d3c7b56bcf"
 
 [option]
 optional = true
+description = "Make skin 3d"
+default = true
 
 [update]
 [update.modrinth]

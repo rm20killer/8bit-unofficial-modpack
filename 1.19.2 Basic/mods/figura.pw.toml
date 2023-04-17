@@ -9,7 +9,8 @@ hash = "9e8f58873e5408107767a743d4b1aa6c119323e0"
 
 [option]
 optional = true
-
+description = "ads more advanced cosmetics into the game"
+default = true
 [update]
 [update.modrinth]
 mod-id = "B3csO4KD"
