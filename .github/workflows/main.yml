@@ -1,12 +1,26 @@
+name: Automatically publish to Modrinth
+on:
+  release:
+    types: [published]
 jobs:
-  on:
-    release:
-      types: [published]
-  build:
+  publish-to-modrinth:
+    runs-on: ubuntu-22.04
     steps:
-      - uses: Kir-Antipov/mc-publish@v3.2
-        with:
-          # You don't need this section if you don't want to publish
-          # your assets to Modrinth
-          modrinth-id: uJzGt9Fo
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+       - name: Download the pack files
+         uses: robinraju/release-downloader@v1.5
+         with:
+           name: "*.mrpack"
+           latest: true
+           tarBall: false
+           zipBall: false
+           out-file-path: .
+           
+       - name: Publish to Modrinth
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: uJzGt9Fo
+           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*.mrpack'
+           loaders: quilt
+           game-versions: '1.19.2'
