@@ -1,42 +1,12 @@
 jobs:
   build:
-    # ...
+    on:
+      release:
+        types: [published]
     steps:
       - uses: Kir-Antipov/mc-publish@v3.2
         with:
+          # You don't need this section if you don't want to publish
+          # your assets to Modrinth
           modrinth-id: uJzGt9Fo
-          modrinth-featured: true
-          modrinth-unfeature-mode: subset
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-
-          curseforge-id: 
-          curseforge-token:
-
-          github-tag: mc1.19.2-0.0.5
-          github-generate-changelog: true
-          github-draft: false
-          github-prerelease: false
-          github-commitish: dev
-          github-discussion: Announcements
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-
-          files-primary: build/libs/!(*-@(dev|sources|javadoc)).jar
-          files-secondary: build/libs/*-@(dev|sources|javadoc).jar
-
-          name: Unofficial 8BC Client
-          version: mc1.19.2-0.0.5
-          version-type: release
-          changelog-file: CHANGELOG.md
-
-          loaders: |
-            quilt
-          game-versions: |
-            1.19.2
-          dependencies: 
-          java: |
-            8
-            17
-
-          retry-attempts: 2
-          retry-delay: 10000
-          fail-mode: fail
