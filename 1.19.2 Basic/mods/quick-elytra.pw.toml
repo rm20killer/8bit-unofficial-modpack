@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/n25ZPrjA/versions/LuOeOjwg/quick_elytra-3.0
 hash-format = "sha1"
 hash = "ae8df808ed067e23709c5086a25d427e55a7ee98"
 
+[option]
+optional = true
+description = "Don't need if using Tweakeroo"
+default = false
+
 [update]
 [update.modrinth]
 mod-id = "n25ZPrjA"
