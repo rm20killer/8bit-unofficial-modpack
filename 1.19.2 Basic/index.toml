@@ -433,6 +433,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "c9ee8aeae3cb8b665654085f4b0371c1e6734cef6b8d726f5a69efdbbaef9c4b"
 metafile = true
@@ -530,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
+
+[[files]]
+file = "mods/quick-elytra.pw.toml"
+hash = "4316869a722c334adbb9ff8833078830a33c3552cdb7c4f2e253e3d6472bfcd5"
 metafile = true
 
 [[files]]
