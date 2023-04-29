@@ -1,0 +1,18 @@
+name = "Keyboard Layers"
+filename = "keyboard-layers-1.0.1-mc1.19.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vos4ti95/versions/7B15IKIu/keyboard-layers-1.0.1-mc1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "83c63301d7aec888e6b2604d958c19b397498ad1"
+
+[option]
+optional = true
+description = "Better keybind manager with layered keyboards"
+default = false
+
+[update]
+[update.modrinth]
+mod-id = "vos4ti95"
+version = "7B15IKIu"

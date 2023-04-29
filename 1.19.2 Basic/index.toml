@@ -153,6 +153,11 @@ hash = "3afaf75c1acf4298002e7481a8af3c6fd03b27cda9ad6e7f619f1432a6959aa5"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "4196b1892b89e42d483b90d9e3ee2af2af519097c3e34a18aeb8169cfbc72b65"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
@@ -175,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
+metafile = true
+
+[[files]]
+file = "mods/bindlayers.pw.toml"
+hash = "f6ae282cd1c228590b3ccb67a090e42fe2cc2a778e718a759dc93a3064d1f7fc"
 metafile = true
 
 [[files]]
@@ -389,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "929d8fcc448b029fd49f0cbe409d3f01f5a4a4ce2efa0d432bff825ab297c7be"
+hash = "b8d72bfddf06fb948effbe600fd253c5c2a09f4ff2852a68fceea56f3bc4463c"
 metafile = true
 
 [[files]]
@@ -470,6 +480,11 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
+metafile = true
+
+[[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "08943f93d7cdcf6fcd2e96bfad75b79359d5ed2425510e3972b0e090694c8c91"
 metafile = true
 
 [[files]]
@@ -599,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/sort.pw.toml"
-hash = "52bfb8baf1e2ada9b076faa8addefd732c0cd2fd408a2116f8ecfc9e96da4c08"
+hash = "d2957e3588318eeec62beb165483f08add986005347846aa7d70e04117e00ad9"
 metafile = true
 
 [[files]]
@@ -669,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+hash = "416b0ae2257022a7a0fb24d010e0ccadfe53049e00c708ff00b95a9282611d97"
 metafile = true
 
 [[files]]
@@ -689,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "d1bb0b4dcf7df7469f0bc32d14e16bc5d949648f5f3e7a5f792643640aeda99e"
 metafile = true
 
 [[files]]
