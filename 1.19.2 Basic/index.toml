@@ -388,6 +388,11 @@ hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "929d8fcc448b029fd49f0cbe409d3f01f5a4a4ce2efa0d432bff825ab297c7be"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "8a762171b89a5265ad651263b4691a098ce6429edd74b4ddb09c7c33286fcc75"
 metafile = true
@@ -430,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "bdddaefc3d9fd9fbe955f622e7050694261b97b316a2b42245c83a5dd3b75686"
 metafile = true
 
 [[files]]
@@ -658,6 +668,11 @@ hash = "df2fc08fbe381814642af2e2b294fbce00859b114457cdcbafb16022da18ac3f"
 metafile = true
 
 [[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
 hash = "8ea90a90292ef89b77fba94f89870023d002708bf4e1d19e3e78e8ca20f51519"
 metafile = true
@@ -670,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
