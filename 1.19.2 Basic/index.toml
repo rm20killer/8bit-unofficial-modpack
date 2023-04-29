@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "7aa0e665307df7cf5469235993abed6ff73eadfc67703089df53add5d11bd61b"
+hash = "246cd2214d087ee9ad322af509738cf49806030fdea0ce0ed3e3def80c466848"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "88592606b41842ba00a9858eab6f85a30256917b57332931a93b78828ad180fd"
+hash = "c43c20be9e2c5f57d878c7aa8e9f9a82275838e19aeda465f1381b829d1e3151"
 metafile = true
 
 [[files]]
@@ -309,12 +309,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c3b9347961a06e85aad24fa8f863f617da394df49a67b0b1a1a952ad7f0056f7"
+hash = "64e37fd54d2b0afced5c242e90579f321c7fa9cbf1b3270cd4c31a0575eb0e07"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
+hash = "32cff441dba71cee026356fe08147e289183532b7215071cdb0dd91af56aa643"
 metafile = true
 
 [[files]]
@@ -339,12 +339,12 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "52151824c96c3e5d1c890b638cec6c2cd73f5c8c03e56af525498dc0f2a15fe1"
+hash = "f327e094ec5f9485f28f4544b63d9371d415e8f7e804e165e88d560215b7548c"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
+hash = "06848036e814be3439e96936bf20dfa3257385f07d9ed6d9b5d2c45855145db9"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-editor.pw.toml"
-hash = "4d1a1896610a67d0582f65dead3711cb1b02cc1bca24e3d915fdcd36b9e2829f"
+hash = "929bea7b0d0de00eeabdaed83992c926902aa929aeeb12cf667b48a9c7eb486a"
 metafile = true
 
 [[files]]
@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "a1cb6351523f39cd11c1389b7f38b97b86a6baa15b36135ce6b175d46c0f0445"
+hash = "1a9d90864a7b3f44ce55f12c30a4740c9a4a156ca2219ecb64a7510ae8673ca8"
 metafile = true
 
 [[files]]
@@ -689,12 +689,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "8ea90a90292ef89b77fba94f89870023d002708bf4e1d19e3e78e8ca20f51519"
+hash = "652142461f9c339fe9ca7b877474376b960aa2ab40ee2142a4eb9f196cc37dc6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c071fa54273dc9f6358fb0b740e4893e617ffbe779c14909c27ad928bd246411"
+hash = "ddb32bebc93de51dea1349e9ddd32d9d51dca6b3dffdf69a7e1466e295e2f498"
 metafile = true
 
 [[files]]
