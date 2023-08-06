@@ -1,0 +1,13 @@
+name = "Night Config Fixes"
+filename = "NightConfigFixes-v8.0.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HgALhmVM/versions/AITsoSM2/NightConfigFixes-v8.0.0-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "cfdaacb6252b51e92362a15cc7a0212b1a225780"
+
+[update]
+[update.modrinth]
+mod-id = "HgALhmVM"
+version = "AITsoSM2"

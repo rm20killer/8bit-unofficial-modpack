@@ -1,0 +1,17 @@
+name = "NBT Editor"
+filename = "nbteditor-1.12.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5Osk0m1G/versions/8QEsJhbp/nbteditor-1.12.1.jar"
+hash-format = "sha1"
+hash = "e6856a25e65f7a3e9d3ab1e2115d14f201853326"
+
+[update]
+[update.modrinth]
+mod-id = "5Osk0m1G"
+version = "8QEsJhbp"
+
+[option]
+optional = true
+description = "NBT Editor tools"

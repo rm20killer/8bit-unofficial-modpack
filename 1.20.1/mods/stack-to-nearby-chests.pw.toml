@@ -1,0 +1,17 @@
+name = "Stack to Nearby Chests"
+filename = "stack-to-nearby-chests-mc1.20.1-0.3.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HtGckJVc/versions/eZTLtNPr/stack-to-nearby-chests-mc1.20.1-0.3.2.jar"
+hash-format = "sha1"
+hash = "62fa20ff8221e1b7573e04aca797f2d84dbe45bf"
+
+[update]
+[update.modrinth]
+mod-id = "HtGckJVc"
+version = "eZTLtNPr"
+
+[option]
+optional = true
+description = "puts stuff in chest (Be carefull with this mod)"
