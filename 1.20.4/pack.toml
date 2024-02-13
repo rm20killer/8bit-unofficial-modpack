@@ -1,0 +1,13 @@
+name = "8Bit Client 1.20.4"
+author = "RM20"
+version = "1.0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6d2e781dbe78bdced9f01b2883e4142a01d3684fe15e74f6e24e61eb91fd5fea"
+
+[versions]
+minecraft = "1.20.4"
+quilt = "0.23.1"

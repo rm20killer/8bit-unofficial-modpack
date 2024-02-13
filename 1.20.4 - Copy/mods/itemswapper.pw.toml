@@ -1,0 +1,18 @@
+name = "ItemSwapper"
+filename = "itemswapper-fabric-0.5.5-mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RPOSBQgq/versions/UAt5HtUi/itemswapper-fabric-0.5.5-mc1.20.4.jar"
+hash-format = "sha1"
+hash = "8df3447c71085bfcb5040d60705411de89dfa897"
+
+[update]
+[update.modrinth]
+mod-id = "RPOSBQgq"
+version = "UAt5HtUi"
+
+[option]
+optional = true
+description = "Item Swapper (plugin not installed)"
+default = true

@@ -1,0 +1,17 @@
+name = "FZMM"
+filename = "fzmm-mc1.20.4-0.2.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tAvlhiZW/versions/vNuti4WD/fzmm-mc1.20.4-0.2.9.jar"
+hash-format = "sha1"
+hash = "27ea3cdc42319376ba717c23cbae42f8c02ef3e2"
+
+[update]
+[update.modrinth]
+mod-id = "tAvlhiZW"
+version = "vNuti4WD"
+
+[option]
+optional = true
+description = "NBT Editor tools"

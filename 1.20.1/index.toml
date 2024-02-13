@@ -178,6 +178,11 @@ hash = "7213c1f85dede9a36f77d4a0064a1c6aae79bcb4e281ae5d6d8698793ddda046"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "c9d6fd5144569722237cb51962b6e334605a1059ee0be47e5baea6b28e1d1c27"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "a2d50a2625a6640037b22e35f3b753f5dd2db3b87cdf8a65320ec4c4f17f0e6c"
 metafile = true
@@ -610,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "1076527391412ff82342bd7c9598a1fcb086aea48c12776c6d67a0fa1326dfa2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-map-chest-tracker-integration.pw.toml"
+hash = "d2e4f9b46b78fbb5939ecea89a5104b6291809732b5d01ac39b0efdb0dfaabb6"
 metafile = true
 
 [[files]]

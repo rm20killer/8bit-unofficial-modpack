@@ -1,0 +1,17 @@
+name = "NBT Editor"
+filename = "nbteditor-1.13.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5Osk0m1G/versions/LHooCATc/nbteditor-1.13.0.jar"
+hash-format = "sha1"
+hash = "ce4dffc1e014629a4e7f7a2e89f180cc51678cb4"
+
+[update]
+[update.modrinth]
+mod-id = "5Osk0m1G"
+version = "LHooCATc"
+
+[option]
+optional = true
+description = "NBT Editor tools"
