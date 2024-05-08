@@ -11,7 +11,3 @@ hash = "6d61985354953e345bbaa3d4c1781a7b203ce83c"
 [update.modrinth]
 mod-id = "DOUdJVEm"
 version = "CzlyUU6C"
-
-[option]
-optional = true
-description = "Adds controller support."

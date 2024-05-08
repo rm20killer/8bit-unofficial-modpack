@@ -11,3 +11,8 @@ hash = "b95deba4c8758226c08576f02e5df327f96a8ca2"
 [update.modrinth]
 mod-id = "XhOTBzVR"
 version = "KCpLdByr"
+
+[option]
+optional = true
+description = "Help look for item in chest by saving the data on your pc"
+default = true

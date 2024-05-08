@@ -1,16 +1,16 @@
 name = "FZMM"
-filename = "fzmm-mc1.20.1-0.2.5.jar"
+filename = "fzmm-mc1.20.1-0.2.6.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tAvlhiZW/versions/clf0siWj/fzmm-mc1.20.1-0.2.5.jar"
+url = "https://cdn.modrinth.com/data/tAvlhiZW/versions/yVPnFKdx/fzmm-mc1.20.1-0.2.6.1.jar"
 hash-format = "sha1"
-hash = "d185d0e49eb2ab4475085fe9645426cd3cc89537"
+hash = "e0b84f4d3b551cdff7f9264cb757cda8c48292fa"
 
 [update]
 [update.modrinth]
 mod-id = "tAvlhiZW"
-version = "clf0siWj"
+version = "yVPnFKdx"
 
 [option]
 optional = true
