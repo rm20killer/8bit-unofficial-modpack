@@ -15,3 +15,4 @@ version = "MYaRwBOZ"
 [option]
 optional = true
 description = "Inventory sorting stuff"
+default = false
