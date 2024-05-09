@@ -138,8 +138,23 @@ hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "93a1253ad002079a321f75e5d1674dea97e582462909641c3b8b4ead0997bc78"
+metafile = true
+
+[[files]]
 file = "mods/better-pie-chart.pw.toml"
 hash = "6acf1b92d8424d1baa9e9c8a75877ab0176ae8c686d7dd08b84bec6af48c5ecd"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "d2f6ba732fdd2d315fc9eb4c106e7592fdf934a0ae3cd233501b4ab76e08c342"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
 metafile = true
 
 [[files]]
@@ -168,6 +183,11 @@ hash = "896caf86ddf75501e5634614e700e1feffcf1a3a2cb1234200a5eb62f99b39b5"
 metafile = true
 
 [[files]]
+file = "mods/client-maps.pw.toml"
+hash = "8da85f46865c0aefa63e5d15a61b86c2fe07c16490f99764421569f52ea9357e"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
@@ -175,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "16f96bbdee19f6401ff372600b7e76cc1fb6ad8d5a2a116a96be45f875109da9"
 metafile = true
 
 [[files]]
@@ -190,6 +215,16 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "fa94c3f9d622bae53dd95109da4cd938aac4991feecf5b1a8e7be43ac4200401"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "23741a1d4ab09af28cc04a035f30d0e9b0f26577697e0faaf797f2eed2833451"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "6a36ea2329ed74f9a0e5b796f7d789ee4fd195fb1d1d0c8933a6dd5fbbcec8a9"
 metafile = true
 
 [[files]]
@@ -273,6 +308,11 @@ hash = "0b979a56ecb4f9cb0ae346d69b7ef0e95eb2c16c058fe0bf36728bb4ed453d1a"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d1e32ea50e119b059ffe57b2785625679cf04641dfa2d7189197f09eb63aa7f7"
+metafile = true
+
+[[files]]
 file = "mods/fzmm.pw.toml"
 hash = "20b089cb46d4d02a483635adcd3036ec3d11cded81db6a23f2b349cef721c872"
 metafile = true
@@ -333,6 +373,10 @@ hash = "46775cb51714cb624ab336889c25c29945998c67b8f32f8fb11e9fb7ecf50c67"
 metafile = true
 
 [[files]]
+file = "mods/litematica-fabric-1.20.4-0.17.2.jar"
+hash = "16f5d4f713268e41c307acc292cb3da1532a918c4c334ebf59eabd2f245e0724"
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
@@ -340,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "a60b40bf13dbb92bb17d64eb25bfd383b7e10eaadca1d8d1364bc06d72d92465"
+metafile = true
+
+[[files]]
+file = "mods/map-in-slot.pw.toml"
+hash = "31a0c61ea9ba02f396a4270783c7c108ad111430ecefe046cf9c9aaafa2b6767"
 metafile = true
 
 [[files]]
@@ -358,6 +407,15 @@ hash = "bd6d19a7233f79f0dc0330f68e20a9e2cc2baeb6c7d0f0a54f97d95a7c2020f7"
 metafile = true
 
 [[files]]
+file = "mods/minihud-fabric-1.20.4-0.30.2.jar"
+hash = "db8fa077d9defb1efa1c3d692358d9f6bccaa80ffaad17ea1e58037303844581"
+
+[[files]]
+file = "mods/mod-sets.pw.toml"
+hash = "4cc60d1ad6c389c3c5ec62846d07b140066ec91ca65c6269ff51dbd2e7734892"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
 metafile = true
@@ -370,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
+metafile = true
+
+[[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "0bf85d01dff954dcb77fc63c8336046c0beb63905573fa4e76ae5749f2e9279e"
 metafile = true
 
 [[files]]
@@ -463,6 +526,11 @@ hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "4e80c51d4696f6a52f7940bfec2dd1728f59b85e8dbd72eee876d61eb946f568"
+metafile = true
+
+[[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
 hash = "c64865a058a81bdf4ea8602e77eacaee28acec7b37a37c212c8c796c493ae90d"
 metafile = true
@@ -508,6 +576,10 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo-fabric-1.20.4-0.19.2.jar"
+hash = "4d0f95c571a0f257ebcd807348aeb887622cd7119916940a48bb25bbe6a2bae0"
+
+[[files]]
 file = "mods/viafabric.pw.toml"
 hash = "f221689fb09bbc743b03751de6f4b03cbd70f4bb85c23059e831935cd58e6d88"
 metafile = true
@@ -535,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
 hash = "68557e8b0cd7bdf1015c3760d70841a876284d7f83b36bfea022a8612e8a393a"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "5703543a503d90346eedf4ac22eb3bc1370007d0b5f86b11a18b322e04a4f44a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "1.2.0",
+            "releasedAt": 1715378812,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/unofficial-8bc-client"
+                }
+            }
+        }
+    ]
+  }
