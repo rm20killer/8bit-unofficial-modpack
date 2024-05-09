@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "09fc5368e482f55e52395ff45f50067dbeacaea7be894cdd33ea50f359836740"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "1a7dbab9710499edef8baa17a45e4718a31661829aa7eded598bb56126a69509"
 
@@ -17,12 +21,24 @@ file = "config/fancymenu/config.txt"
 hash = "cb7b89efd8fe34faf09f77fa07b9ffb401673f8ae89af3859723cda5afd7516a"
 
 [[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "be47fe994d5d95a522fb139707db683b7c884dbc5f063432884c1895fe307356"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/8bit-main-menu.txt"
-hash = "5b35e3bd7be3c2e96a6e96bd2855c8a52e33872005beb1c00ca80db3ea5c3a66"
+hash = "704acd445069dfa08389aeecb3c2d38a3062debc0d04c22aca6f862b83f26692"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -57,6 +73,10 @@ file = "config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
+file = "config/fancymenu/options.txt"
+hash = "aae0cf84a788bb73714d488946587db5da19b2df76238bba0cb0e573b9da86e3"
+
+[[files]]
 file = "config/fancymenu/panoramas/Spawn/panorama/panorama_0.png"
 hash = "9f02555b82b964a5871d09d7c22e4f90d310e9c36ddca9a44c68e03b35a6d2c7"
 
@@ -85,8 +105,44 @@ file = "config/fancymenu/panoramas/Spawn/properties.txt"
 hash = "c1cba9f507f45ace170f8d7ad000e8fa290ed4e67600a02b17f570018e66dc72"
 
 [[files]]
+file = "config/fancymenu/panoramas/Spawn2/panorama/panorama_0.png"
+hash = "68028fab8d6f1b0839d8a8f2be86e2acdb4b258e9c2f8d8c67061b994a4004e6"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn2/panorama/panorama_1.png"
+hash = "bf98b105b41444caf74903696c9d11da93a26c94f583dd593ef5b43dd740aabc"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn2/panorama/panorama_2.png"
+hash = "00bf451e07e4a781cd69e3ff4259f2aaf6ff022282537b5a8f6fdff424721bdd"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn2/panorama/panorama_3.png"
+hash = "ee02ee31eebff4d86bccf5bd025d26354270d0b4b4705108f873e8438abb14a1"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn2/panorama/panorama_4.png"
+hash = "145e0e7a18743f74ced55399e7e112bc3349816a4d2a1a75f35a3d8e34258f0a"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn2/panorama/panorama_5.png"
+hash = "619507c7f773f9421f3053c341fc4158bc293488988c25230dd47bded3c17f8e"
+
+[[files]]
+file = "config/fancymenu/panoramas/Spawn2/properties.txt"
+hash = "59a8df46e4935184ce459f6eb129722388b88fbf2add7ea1537ab8b0dbb2bcd1"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "f27db2df244107a607158267a180cf1ad0adcd33b582e0394aa58b690a25806e"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/inspecio.json"
@@ -97,12 +153,24 @@ file = "config/lambdynlights.toml"
 hash = "50011a9f43aa8b275f387be2ad68b0a6a4c610df048f751a284b8f5edb7ad3ab"
 
 [[files]]
-file = "config/packmger/client-config.toml"
-hash = "d81820361b01531fe82e545688480fcfaa77958f9d98be610efc2743f04534fb"
+file = "config/modpack-update-checker/config.json"
+hash = "26d97d34c859dc361c063bccb08abd38afdb5e80e22e299911c4891d4f946003"
 
 [[files]]
-file = "config/packmger/item_blacklist.json"
-hash = "8b04685f9aa082fb693dc2c04bb566ad81a117be365d4e4e4d2f2c10f19a6a05"
+file = "config/modsets/common.json"
+hash = "4795c12f4d025aec589957a09c7a0e0af5b6efae819e6e61f57f7ef3d74d31d3"
+
+[[files]]
+file = "config/modsets/disabled_mods.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/modsets/rules/InventoryManagement.json"
+hash = "2fbe1cecde28a970e38b868c02e1d7ada2968bca9a6c16484941bf2943b067f6"
+
+[[files]]
+file = "config/modsets/rules/ServerMangementMods.json"
+hash = "f1decd6091d6cc86586813707ad8576c141c49b6637c038b3c7c862f136e63d2"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
@@ -301,6 +369,10 @@ metafile = true
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
+
+[[files]]
+file = "mods/filelist.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"

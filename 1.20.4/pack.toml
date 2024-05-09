@@ -1,12 +1,12 @@
 name = "8Bit Client 1.20.4"
 author = "RM20"
-version = "1.2.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "57f5fde81a523997ebece8cf13fb0b5808b0f31647e87461cdec6e79b143ebc6"
+hash = "fdafab3b89e1063ea55b31364bbb900c470719b00351b58cbad1d2c493430752"
 
 [versions]
 fabric = "0.15.11"
