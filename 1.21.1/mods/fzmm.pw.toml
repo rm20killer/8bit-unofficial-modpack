@@ -1,0 +1,13 @@
+name = "FZMM"
+filename = "fzmm-mc1.21-0.2.13.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tAvlhiZW/versions/xy6PjCNu/fzmm-mc1.21-0.2.13.jar"
+hash-format = "sha512"
+hash = "a22fb38582801b57105e593c839c85ee368c9f83b9e21ef3d4b953b4d04ee4bbe4bc5e59d7a8d91d9bf003cd2674507fc5378b65877ea001170fe5a6cb3a9dac"
+
+[update]
+[update.modrinth]
+mod-id = "tAvlhiZW"
+version = "xy6PjCNu"

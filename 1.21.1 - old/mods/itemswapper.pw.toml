@@ -1,0 +1,13 @@
+name = "ItemSwapper"
+filename = "itemswapper-fabric-0.6.3-mc1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RPOSBQgq/versions/MltNFxS2/itemswapper-fabric-0.6.3-mc1.20.4.jar"
+hash-format = "sha1"
+hash = "5b4de0434942f0adb6ec5e4038b434faa55df3a7"
+
+[update]
+[update.modrinth]
+mod-id = "RPOSBQgq"
+version = "MltNFxS2"

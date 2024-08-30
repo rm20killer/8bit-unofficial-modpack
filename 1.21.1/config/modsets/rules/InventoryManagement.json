@@ -1,0 +1,21 @@
+{
+  "text": {
+    "text": "Inventory Management",
+    "bold": true,
+    "color": "green"
+  },
+  "description": "Mods that help with Inventory Management",
+  "rules": [
+    {
+      "text": "Mods",
+      "description": "Mods that help with Inventory Management",
+      "controller": {
+        "type": "mods_group",
+        "collapsed": false,
+        "mods": [
+          "inventoryprofilesnext"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 7,
+  "currentVersion": "1.1.0",
+  "modpackName": "8Bit client",
+  "modpackAuthor": "RM20",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://raw.githubusercontent.com/rm20killer/8bit-unofficial-modpack/main/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}

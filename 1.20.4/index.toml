@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "09fc5368e482f55e52395ff45f50067dbeacaea7be894cdd33ea50f359836740"
+hash = "c5ab5097ad86d0c155946637e6101b238b2223a6680d7b5354ca7d9d8d4a83aa"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -400,6 +400,10 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
+file = "mods/inspecio-1.9.0+1.20.4.jar"
+hash = "d07df4cbb33fce14e4222e18168afe0b6d9845b745515da7a4747b328256e3a4"
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "f91f449f949d8618e231fa4a64b8715c49d13030779273cfa0b7a5f889b4c0ed"
 metafile = true
@@ -625,6 +629,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "aef87c42638b1bb5716adce38efff4d6e803dbd5802e35159ff718a0ff0dde1b"
+metafile = true
+
+[[files]]
+file = "mods/stack-to-nearby-chests.pw.toml"
+hash = "e2da7da2c410a5c2c0b75cdf50507a2f4bac1d48ebeef3b52fbda15895b0d3ad"
 metafile = true
 
 [[files]]
