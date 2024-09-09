@@ -1,0 +1,30 @@
+Updated modpack to 1.21.1 using newier Mods
+
+Better performance higher FPS.
+- bad optimizations
+- distance horizions
+- force close world loading screen
+- krpton
+- noisium
+- bobby
+Added support of Axiom
+
+Added resources pack and shader packs
+- complementary
+- Fast better grass
+- vanilla tweeaks
+	- SmileyAxolotls
+	- Beeralis
+	- UniqueDyes
+	- RainbowExperience
+	- BrewingGuide
+	- ClearBannerPatterns
+	- VisualHoney
+	- BetterObservers
+	- DirectionalDispensersDroppers
+	- DirectionalHoppers
+	- QuieterDispensersDroppers
+	- QuieterPistons
+	- CherryPicking
+- Even Better Enchants
+

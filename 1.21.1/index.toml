@@ -17,6 +17,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "850f1dac3e6a07c39c808a6b2ed5193c4e9bea8020f5eec7f71285537dd5b31c"
 
 [[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "be926829903851d3ac082d4a657931b0868301a09927bd27627345b4c1735944"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "cb7b89efd8fe34faf09f77fa07b9ffb401673f8ae89af3859723cda5afd7516a"
 
@@ -30,11 +34,11 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/8bit-main-menu.txt"
-hash = "704acd445069dfa08389aeecb3c2d38a3062debc0d04c22aca6f862b83f26692"
+hash = "ca51287b0e643536ba2e48009062cd03e6077cfc8e6613a557d3622a61253e63"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -74,7 +78,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "aae0cf84a788bb73714d488946587db5da19b2df76238bba0cb0e573b9da86e3"
+hash = "bbeea2a48ca96fb20c128365ce4dcb7c86d88c8c4a23554db8eb62fb671aec9a"
 
 [[files]]
 file = "config/fancymenu/panoramas/Spawn/panorama/panorama_0.png"
@@ -133,6 +137,126 @@ file = "config/fancymenu/panoramas/Spawn2/properties.txt"
 hash = "59a8df46e4935184ce459f6eb129722388b88fbf2add7ea1537ab8b0dbb2bcd1"
 
 [[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_1.png"
+hash = "0ef07180510e9bc43a97950a11bcd1b23a53615312c959e4b92b31f26a43e295"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_10.png"
+hash = "c1be96a9513f770de51c051fff1b31bf22c9a3bd3e1276885ef142643f66feff"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_11.png"
+hash = "b230753d2bcad299927d2da151e80a70f4d0e404581bd17f68c7ee7ce811544d"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_12.png"
+hash = "9c577f3f156c252b6b25e8e02f662851042255533ac44791864ad6f359b39ee0"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_13.png"
+hash = "8f5f324eea53ed9e950153af2a0b1254d8ffd579090430d46f53e5addf18b933"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_14.png"
+hash = "635ff45161f31645ca846432b1a4c67ebc43bfedbbbef7cc23643b57470cdf41"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_15.png"
+hash = "5b5d01808c905943a65d1d9a08e9cfdc605f67d0b974519f41e46492e32df2b8"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_16.png"
+hash = "d8d7ca2b7f29ae8165b84a9cba9a99ec67db9189cea7ba8f003d7fedfa0e8dee"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_17.png"
+hash = "3bfdea97ca78f4a6257e8dbb0b4f1f3860aff060163138ae6522a4c364534667"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_18.png"
+hash = "338dade0c0e9de3bce65cf62b70e918621a3af66ce8cfdd5d0d71ab9c7859143"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_19.png"
+hash = "59bd243215ab43101bf069ef28429a67041528ef8e13e79ffff446a9e9d171c7"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_2.png"
+hash = "baa3f600b1cfdcd6e9c5af00ce3e11b192be264fd9b93aebbc8388c93c35c6df"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_20.png"
+hash = "5a7d93cf495c18cf7e13478d2589ded2d37debc0b4eddac564045ba95fd68d95"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_21.png"
+hash = "96909a5fea3a4f276b4af2d0cf005f90f9f59f57e725cdee91370029520177d7"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_22.png"
+hash = "4fb89ef17ed8c24bd8096e7144d3c34b9f08ef97c8c5c2b9ed31e6be7035c91c"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_23.png"
+hash = "8ca317adfa4076c01a7fb66e27e831d8775fdd040ae15e230320e265c9cbaef9"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_24.png"
+hash = "b56282abfc7f6624b3a9cd165f47225e506240b81bb176b7c4f4a27f44d18fac"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_25.png"
+hash = "914073a5d2e65f852586068f8f32254e67dc161914b53db7bd2e8aae3f4a6c0f"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_26.png"
+hash = "5a6d4de2829be31202a49ed614889542c4eabeb5a82a3669eadf2e7662f8905f"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_27.png"
+hash = "c40c3c92d5068f963bde9da0e41f7425cc38f873c1b3664d24d2214a73d623e4"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_28.png"
+hash = "cd6460d164638e6dc48a40b1bc0e2d72e4cd3ca30703b84e622f54e14f36828c"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_29.png"
+hash = "7ec681d6fec2619db3fc5dc59989a4bc1e30626a0e593c2d34b7224f5b3eccad"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_3.png"
+hash = "2636878700b8c2fbd244a6b4d0fd0675ea61dce8e633f8ef6569b49633b804d0"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_4.png"
+hash = "81d2cf4a35551fe0fd5f8f6c9b598fe7b9c73de57aca08302c964d000a1871cb"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_5.png"
+hash = "94c9fb9a8a7c7365532cc1f5827da9fd0ea5848c7c55f1e7644273ed1f4e81c8"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_6.png"
+hash = "73168e03ba3f32144007feac4f24b7a687a7564605d1c6d66147711ce8ea42a0"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_7.png"
+hash = "d8af7e4b754e0f0d82b6c1062faf22398f6565ec624cd717145ad6c8aa378f14"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_8 (3).png"
+hash = "6345d8799af6feefe9c6617a41a7a792db31ba0fff9e40e8192fc0a4d7566678"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/images/image_9.png"
+hash = "207887fd7a65620fe4856c1fe7bcec1540b07ca879bd47a904685dd5a3cffc5e"
+
+[[files]]
+file = "config/fancymenu/slideshows/myslideshow/properties.txt"
+hash = "4bc16499edce44fac896b9778167dabc21a0e891e978700fe122b20430c77f3a"
+
+[[files]]
 file = "config/fancymenu/ui_themes/dark.json"
 hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
 
@@ -186,15 +310,6 @@ hash = "3ba7d03b5b6f8a06c9bb6bfd48ee73858b6ee7cdeb51616e57e8e3cf348cf5a1"
 metafile = true
 
 [[files]]
-file = "mods/WorldEditCUI-1.21+01-SNAPSHOT.jar"
-hash = "40a3fd33b75dd76f8d77c24e37163ee6ecdc1ef37624615db33d7e2ba6d16f52"
-
-[[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "0b92b8fb6590629950ef610d5ac164f79097136fcce934b3b1ce35321d7bfafa"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
 metafile = true
@@ -205,8 +320,23 @@ hash = "9460d497d821c589a08bbec71b094ce4fd8540324ee9a3f95aecc5ea1cb6399f"
 metafile = true
 
 [[files]]
-file = "mods/better-pie-chart.pw.toml"
-hash = "5ce109f4690ecc2ea1905b985425311fcc3314232179fd46a5324039d1c59ad8"
+file = "mods/axiom.pw.toml"
+hash = "717731cfff671c911e06736d896f7ee2fe43a701322452a185c7bfe12dd2af04"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "0247ac9dac37b9b4a7a9672ca9eb060d5e72c57d58f62c133687007e2c994289"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "4bfb1d289f403c3c78c687ca0101a03b474f5d36de013ba9236007657fc262d6"
 metafile = true
 
 [[files]]
@@ -215,18 +345,18 @@ hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
 metafile = true
 
 [[files]]
-file = "mods/camera-utils.pw.toml"
-hash = "fa22fce9dfc61e51f245dfa492246813220a151ba621eca245916553aaf0cb5e"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
+file = "mods/carpet.pw.toml"
+hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
 metafile = true
 
 [[files]]
 file = "mods/chest-tracker.pw.toml"
-hash = "bd39120157a19ae6885562648e07f63af1cd7c55bb6c9084b9448e5dc8697183"
+hash = "91dc873e08a43f1bc6c4d701d438dd2b2f039f6132f14b661d20f72e13c79086"
+metafile = true
+
+[[files]]
+file = "mods/client-maps.pw.toml"
+hash = "0e01dfe15a202a74866a5bdfa3b6ee774961389fcd2230d9d894cfa1116ff016"
 metafile = true
 
 [[files]]
@@ -245,13 +375,27 @@ hash = "03afedbbc59e77752ee55a6a041a3767af731b7f8faa28e3b3256ad9be5b67a6"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica-1.21-1.2.9.jar"
+hash = "317dde47ed4f62ec189e74ae431cc0674b15f92988a231b09104bfb5cf194265"
+
+[[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6778375e86388c8bf739e5f24e3531d8887fe193176c3c093de2df6f34973b80"
+hash = "9abf709b93ce39b4fbbc5bc5bbf25e4829f1290434be855291b89fa66b3699c4"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "84de3cd780d9b310e855a6977b6b432b6ab5cb1da8a0c557341825ba31697af2"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "3a70c7059c04da89f799a6d93628830aca919b038c3d73f393fd922e1d70483c"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "55b2feb8a6e42cf7dcdab8e6f4fde0fa11ae7aa2457c0097a21b8357b412e003"
 metafile = true
 
 [[files]]
@@ -271,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "89c2440ea3e2f2385cefd60d5b56dc0cf1a7adc85cdc337d47159485dc6277ee"
+hash = "e9fdd32c16e364850b2413217ab0ab4b2e8c0cea6a473c8f90f379b82dd2105e"
 metafile = true
 
 [[files]]
@@ -281,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a5a1019a4d28a1f025a8a852095b567a94d03d9df7665d30e2af87d850bf76d3"
+hash = "7586887574ce8612893eeb6e9fc198d03f21a491ec3cc1a40c89c4d163e0a603"
 metafile = true
 
 [[files]]
@@ -300,18 +444,8 @@ hash = "b062d71c371b3361e700edb4db46acd1a1feed6c91b95764e08e03cdb25ba1f5"
 metafile = true
 
 [[files]]
-file = "mods/fallingleaves.pw.toml"
-hash = "77c35043d1e5dbeba210c69ef7aa15dd47ab978e2e27ee3e37ad8838a0c08d80"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "792c5c95f3026445f9b0602f6e4160e392ed1d54235a3239f98dcbc267c328d9"
-metafile = true
-
-[[files]]
-file = "mods/faster-random.pw.toml"
-hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
 metafile = true
 
 [[files]]
@@ -330,6 +464,11 @@ hash = "c000a1bb7a7a3381cadc48a5241fe57a397496aad5730f8168b1c4263bb5d1c9"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "aab6a22f8b8ba0e40be7005c8ad9e3b891be8e5e7bdb2d97cc6c67747359976f"
+metafile = true
+
+[[files]]
 file = "mods/fzmm.pw.toml"
 hash = "d9c31561d5f6d1316fcbe4372cef0d2dc8f84112523070770ec8ebf9cd1892cf"
 metafile = true
@@ -337,11 +476,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "cf0adf784f1a181299bc48c9b9048fba5980755365586592e73ffe46ae4915e5"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
@@ -365,8 +499,9 @@ hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights-3.0.0-alpha.1+1.21-local.jar"
-hash = "c9a45e4a2f7e52fd00a9d3560663a041fc4af940f19a3add6d6b8835d6f55999"
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
@@ -376,11 +511,6 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "d00fa0bca321c61e0b4e50b4e3e4d4a39bb95b9f5936c2cf10ebee96c4baef73"
-metafile = true
-
-[[files]]
-file = "mods/litematica-enderchest-materials.pw.toml"
-hash = "4bd19239f3efc1137e705090a87e6248d8ba003aec593e4de7b094d74e474c50"
 metafile = true
 
 [[files]]
@@ -439,13 +569,8 @@ hash = "86ff8d3e798526440b1eed1ab9582cd08955a4a0d3c58699119ac1d2f4d7834f"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "0633108c3f6624f22162a6b18f86a03c2f48c7440108a960ae3e4df56b681d3f"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
 
 [[files]]
@@ -454,13 +579,18 @@ hash = "d0a050b2a5fbb6234f8555e9c7de9b5afd7d64cb022484f44bb96546e1350ac0"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "9f5b03f87f94f9b8643fb38bd08a7545f3532227bc08397f9a561cc1cfb84cac"
+file = "mods/noisium.pw.toml"
+hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
 
 [[files]]
-file = "mods/noxesium.pw.toml"
-hash = "8beceb286ffa85c7452b9c966a329c888f9584cf81b4caaa1f067fd0c69429e4"
+file = "mods/not-enough-animations.pw.toml"
+hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
+metafile = true
+
+[[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "dda59416b56067789701b5fbbc53969c14e8c43dc8ffbc31d1c55668a535558d"
 metafile = true
 
 [[files]]
@@ -470,12 +600,12 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "68b5da32a9d15f8a37b717b8e75bc428e25844f93ad8a4cb3b73343088ad8d7c"
+hash = "38699a8b27c4be66b7ea28cee7a411d3fddc7450af4ae31b2579df1c1945479c"
 metafile = true
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "84ea0bba8978dc70d49cefc1566a9913ea64c04cba687a079e8c5acbe010d3c7"
+file = "mods/peek.pw.toml"
+hash = "776b1f30357780cc2ed1bc1590cb36122f82ddbcec15d51acce87c910b6947b2"
 metafile = true
 
 [[files]]
@@ -490,12 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "43dda457275188ec1bee8b9e5f857255b002ddd2b9c6936262d3cd553f8ac83a"
-metafile = true
-
-[[files]]
-file = "mods/potatoptimize.pw.toml"
-hash = "2966e51750b8916184d97ec28b0791e0c5db83203a897536f9e26000794fc9ba"
+hash = "2b35b5f8baa80052c753b8969d5d59a117df7de3bf3036d12e636915665e5190"
 metafile = true
 
 [[files]]
@@ -505,12 +630,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "7f18b18a5668700d67ca12e4dff2e14af7942c377dcdaba7830fc7e5ebd8e956"
+hash = "d0033f886c2e43f9b1aeb36b4bdef4252e422d932fdd13a4f095f6331d8751e1"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "491ee12ec90494bbed13bfef38eda7185a816a5a0e449b4b926ffbc2d8329a26"
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "b1e40704ce2e6e69730f4d2988e08a4f103d4a52da8bb7c71490b4cfc5387382"
 metafile = true
 
 [[files]]
@@ -519,13 +644,8 @@ hash = "d235a305e550bd16a1ffe65614bafc4f51e2ae0e978617c72397a45e27976525"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "2b36d7182dd84b76e529770f82fe3418e7a6913cc1e34c6d333956821c38c910"
-metafile = true
-
-[[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
+file = "mods/ryoamiclights.pw.toml"
+hash = "ea10b64e72890a0b0fac51f24c33c33ecee7e1fbe4c5d1ce7df053f65c004ba9"
 metafile = true
 
 [[files]]
@@ -564,13 +684,18 @@ hash = "bb622f11d95f0d73e14607a92de8d62ed3b0c6f1a5f50aa1373538d79fc1e47f"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
 file = "mods/stendhal.pw.toml"
 hash = "8cd4c8bc9d0b3a0059f870c04b0fa273c32812c34e56340d3fa66c5b79cc965e"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+file = "mods/tcdcommons.pw.toml"
+hash = "1b02ebac642ccf7870fd24e7935072bf7446450e54bd455216751859b2fcf8a5"
 metafile = true
 
 [[files]]
@@ -579,8 +704,13 @@ hash = "188816f96febfb031078525443b24cb29c57b98132443406f2834980121ec9a8"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "711713f7c48ce907b0d689b9d6e85d1aff90a65dccc9e29977726c1ce783bc03"
+file = "mods/viafabric.pw.toml"
+hash = "37afa06277dc2a08ed61ce300935d6ca40a1ee607aa94067828a75d00ed44e97"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
 metafile = true
 
 [[files]]
@@ -605,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "5bf4d806a6aef3b8d201e39898550c2869007a93b72678fcb19d0e6e28c23b4a"
+hash = "a7dfd31be81fce18191a5468bf24a04dff7275062d9f285e3b52eec771157390"
 metafile = true
 
 [[files]]
@@ -616,4 +746,31 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "7c27086261da057c17912900fab5f8af99f4dc3100fdf07092da5ae5f9cdd206"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "879ea37d397c7213b5a08b4b1a6b4b456965c947a4e45cd6942d3dbe1fdf93f0"
+
+[[files]]
+file = "resourcepacks/EBE_1.20.x_v1.1.zip"
+hash = "cc1dc1cf2252b07fc5157d6982e2d1a5abe89ba5eab36688f75b778056dcd722"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r996725_MC1.21.x.zip"
+hash = "fe61b918f64929563f250c43b7459ef21ae011b47e9cc2287f15886908e94e24"
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "8df090635327e96e723596b6bcc0318a270f825f3a168c28ad156ec5c9ada48d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "40f83616a61e0af5e807e2ef1df03958e65234d82d2ac310d9c21fd82205df02"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "ced03e9472d4d93f0d6f90ab06a5198a6d125f9f61ff53184185bbcee52eca7f"
 metafile = true
