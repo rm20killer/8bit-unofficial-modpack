@@ -11,6 +11,7 @@ Added support of Axiom
 
 Added resources pack and shader packs
 - complementary
+- euphoria patches
 - Fast better grass
 - vanilla tweeaks
 	- SmileyAxolotls
