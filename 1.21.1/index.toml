@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "c5ab5097ad86d0c155946637e6101b238b2223a6680d7b5354ca7d9d8d4a83aa"
+hash = "09fc5368e482f55e52395ff45f50067dbeacaea7be894cdd33ea50f359836740"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -22,7 +22,7 @@ hash = "be926829903851d3ac082d4a657931b0868301a09927bd27627345b4c1735944"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "cb7b89efd8fe34faf09f77fa07b9ffb401673f8ae89af3859723cda5afd7516a"
+hash = "5b6435dcaa0a6dd7946f094a64f22a6376c05eca57a0a29fd0e099761ac5b5a5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -278,7 +278,7 @@ hash = "50011a9f43aa8b275f387be2ad68b0a6a4c610df048f751a284b8f5edb7ad3ab"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "26d97d34c859dc361c063bccb08abd38afdb5e80e22e299911c4891d4f946003"
+hash = "576d33eae87d593ed7effff560e90512506b149d022ed7201117ed6adad6f65c"
 
 [[files]]
 file = "config/modsets/common.json"
@@ -426,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "7586887574ce8612893eeb6e9fc198d03f21a491ec3cc1a40c89c4d163e0a603"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "4dc82e60c95c08b832deff08a51180c454933c62e51976e7369e719078829e79"
 metafile = true
 
 [[files]]
